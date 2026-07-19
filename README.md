@@ -1,4 +1,5 @@
 # Superstore Retail Analytics Data Warehouse
+Dataset : https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 ## 📋 Project Overview
 This project involved building a robust retail analytics platform for the Kaggle Superstore dataset (2014–2018). We implemented a full end-to-end data pipeline, including dimensional modeling (Star Schema), ETL (Extract, Transform, Load) processes, and advanced OLAP analysis to derive actionable business insights.
